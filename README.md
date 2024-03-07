@@ -1,6 +1,3 @@
-Certainly! Below is a copy-and-paste friendly version of the README file for your Salary Projection Linear Regression Model project. You might need to adjust URLs, file names, or contact information according to your project's specifics.
-
-```markdown
 # Salary Projection Linear Regression Model
 
 ## Project Description
