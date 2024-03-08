@@ -15,6 +15,9 @@ The dataset underpinning this project contains detailed information on company e
 - **Years of Experience**: Numeric, denoting the total years of professional experience the employee has.
 - **Salary**: Numeric, representing the employee's annual salary in US dollars.
 
+## Data Source
+The dataset used for this project is available on Kaggle, contributed by rkiattisak. It offers a comprehensive collection of employee attributes essential for predicting salaries using linear regression. You can access and download the dataset from the following link: [Salary Prediction Dataset](https://www.kaggle.com/datasets/rkiattisak/salaly-prediction-for-beginer).
+
 ## Installation
 
 Before you begin, ensure you have Python installed on your system. This project is developed using Python 3.8. You will also need to have libraries such as Pandas, NumPy, and scikit-learn installed. Follow these steps to set up the project environment:
